@@ -1,0 +1,36 @@
+[33mcommit 01512bd8ce08356b75b2f432963745eaccff43af[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;33mtag: SBI_R_2.0[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/UAT[m[33m, [m[1;31morigin/SIT[m[33m, [m[1;32mUAT[m[33m, [m[1;32mSIT[m[33m)[m
+Merge: cdf68d1 e792401
+Author: Sampath Padhy <sampathpadhy@gmail.com>
+Date:   Sat Jul 22 15:09:02 2023 +0530
+
+    Merge branch 'Sprintwo' into SIT
+
+[33mcommit e792401d8c3d4202f8d9fb310855eea98a655798[m[33m ([m[1;31morigin/Sprintwo[m[33m, [m[1;32mSprintwo[m[33m)[m
+Author: Sampath Padhy <sampathpadhy@gmail.com>
+Date:   Sat Jul 22 14:42:58 2023 +0530
+
+     Sprint two
+
+[33mcommit cdf68d16cbe0064ffc900cfea0f3e9ca75a9b1b9[m[33m ([m[1;31morigin/Sprintone[m[33m, [m[1;32mSprintone[m[33m)[m
+Author: Sampath Padhy <sampathpadhy@gmail.com>
+Date:   Sat Jul 22 14:32:18 2023 +0530
+
+    Sprint One
+
+[33mcommit 74c63d51183697e1202c3598cb51bad0d8bd6b35[m
+Author: Sampath Padhy <sampathpadhy@gmail.com>
+Date:   Sat Jul 22 14:26:24 2023 +0530
+
+    SIT
+
+[33mcommit 2438abb08ede51c76d94df1a220a7701a5b25493[m
+Author: sampath <sampathpadhy@gmail.com>
+Date:   Wed Jul 19 15:45:52 2023 +0530
+
+    1st commit by dev A
+
+[33mcommit 70e6236ef7556e1421cca0d5a7f542073d207db0[m
+Author: sampath <sampathpadhy@gmail.com>
+Date:   Wed Jul 19 15:24:01 2023 +0530
+
+    first commit
